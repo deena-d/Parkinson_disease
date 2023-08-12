@@ -1,3 +1,5 @@
+
+
 # <b>Parkinson Disease Detection </b>
 This project aims to detect Parkinson's disease using machine learning techniques. The dataset used for training and testing the model is imported from a CSV file.
 
@@ -88,6 +90,13 @@ else:
     
 
 # Project View
+
+
+
+
+https://github.com/deena-d/Parkinson_disease/assets/107647091/4b4acb24-2e82-4530-8674-62bb8c0d8b6e
+
+
 
 
 
